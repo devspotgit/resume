@@ -1,0 +1,143 @@
+
+
+{
+
+    "personalInfo":{
+
+        "name":"Patrick Tadie",
+
+        "email":"jpatricktadie@gmail.com",
+
+        "phone":"64-571-4366",
+
+        "linkedin":"https://linkedin.com/in/patrick-tadie",
+
+        "github":"https://github.com/devspotgit",
+
+        "porfolio":"https://devspot.ca",
+
+        "title":"Web Developper"
+    },
+
+    "summary":"Detail-oriented Web Developer skilled in building modern, responsive web applications using JavaScript, CSS, and contemporary frameworks. Experienced with client-side and server-side development, API integration, authentication, and performance optimization. Strong problem-solver with a solid understanding of web standards and best practices.",
+
+    "education":[
+
+        {
+            "school":"University of Ottawa",
+
+            "program":"Computer Technology",
+
+            "startDate":"September 2016",
+
+            "endDate":"May 2023",
+
+            "description":[
+
+                "Write, test, and debug code in multiple programming languages (e.g., Python, Java, C++).",
+                "Design and implement software applications.",
+                "Apply version control systems (e.g., Git) for collaborative development.",
+                "Analyze problems and design efficient algorithms.",
+                "Implement and use common data structures (lists, trees, graphs, hash tables).",
+                "Evaluate time and space complexity.",
+                "Build responsive web applications with front-end and back-end technologies.",
+                "Use frameworks and APIs to connect services.",
+                "Learn deployment, testing, and maintenance practices.",
+                "Design relational databases and write SQL queries.",
+                "Manage data storage, retrieval, and security.",
+                "Work with modern database technologies (NoSQL, cloud-based systems)."
+            ]
+        },
+
+        {
+
+            "school":"University of Ottawa",
+
+            "program":"Electrical engineering",
+
+            "startDate":"September 2016",
+
+            "endDate":"May 2023",
+
+            "description":[
+
+                "Analyze AC and DC circuits using Ohm’s law, Kirchhoff’s laws, and Thevenin/Norton equivalents.",
+                "Design analog and digital circuits for specific functions.",
+                "Use simulation tools (e.g., SPICE, Multisim) to model and test designs.",
+                "Study semiconductors, diodes, transistors, and integrated circuits.",
+                "Build and test amplifiers, oscillators, and power supplies.",
+                "Explore microcontrollers, sensors, and embedded systems.",
+                "Study electromagnetic fields, waves, and transmission lines.",
+                "Design and analyze power generation, distribution, and transmission systems.",
+                "Understand transformers, motors, and renewable energy systems.",
+                "Use oscilloscopes, multimeters, and spectrum analyzers.",
+                "Calibrate and maintain electrical instruments.",
+                "Apply sensors and measurement systems for industrial and lab use."
+            ]
+        }
+
+    ],
+
+    "experience":[
+
+        {
+            "company":"CPOS",
+
+            "position":"User support technician",
+
+            "startDate":"February 2023",
+
+            "endDate":"July 2025",
+
+            "description":[
+
+                "Responded to customer inquiries related to payment processing, chargebacks, and transaction issues via email, chat, and phone, maintaining a 95% satisfaction rating.",
+                "Diagnosed and resolved user issues including failed transactions, payment delays, account verification, and card declines within SLA.",
+                "Guided users through integration of APIs and payment gateways for various platforms (e.g. e-commerce stores, mobile apps)",
+                "Identified and escalated bugs and payment discrepancies to engineering or risk teams, contributing to improved internal tooling.",
+                "Educated customers on payment policies, fraud protection best practices, and chargeback dispute processes.",
+                "Collaborated with cross-functional teams (risk, engineering, KYC) to streamline support workflows and improve user onboarding.",
+                "Documented common support scenarios and wrote internal guides to reduce resolution time and improve team knowledge base.",
+                "Maintained compliance with PCI-DSS standards and internal data security protocols when handling user information.",
+                "Documented common support scenarios and wrote internal guides to reduce resolution time and improve team knowledge base."
+            ]
+        },
+
+        {
+            "company":"Nokia",
+
+            "position":"Nokia Intership",
+
+            "startDate":"January 2020",
+
+            "endDate":"May 2020",
+
+            "description":[
+
+                "Implemented networking, storage, and security policies across OpenStack and Kubernetes environments",
+                "Managed Kubernetes clusters for containerized workloads, including scaling, upgrades, and monitoring",
+                "Monitored system performance and troubleshoot issues across cloud and container layers",
+                "Maintained documentation for deployments, configurations, and operational procedures",
+                "Collaborated with DevOps, networking, and security teams to optimize infrastructure and support business applications",
+                "Deployed, configured, and maintain OpenStack components"
+            ] 
+        }
+    ],
+
+    "skills": [
+
+        "Strong proficiency in HTML5, CSS3, and modern JavaScript (ES6+)",
+        "Experience building responsive, mobile-first, and accessible user interfaces",
+        "Familiar with SQL and NoSQL databases, including data modeling and CRUD operations",
+        "Proficient with Git-based version control and collaborative workflows",
+        "Experience using modern build tools and bundlers (Vite, Webpack)",
+        "Focused on web performance optimization and best practices",
+        "Knowledge of SEO fundamentals and cross-browser compatibility",
+        "Experience deploying applications using cloud platforms such as Vercel or Netlify",
+        "Strong problem-solving and analytical thinking abilities",
+        "Effective communication and collaboration within technical teams"
+    ]
+
+
+}
+

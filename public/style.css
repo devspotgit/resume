@@ -1,0 +1,41 @@
+
+
+:root{
+    --primary:brown;
+    --black:hsl(0, 0%, 0%);
+    --grey:hsl(0, 0%, 20%);
+    --grey-light:hsl(0, 0%, 40%);
+    --grey-lighter:hsl(0, 0%, 60%);
+    --grey-lighter-plus:hsl(0, 0%, 80%);
+    --white:hsl(0, 0%, 100%);
+
+}
+
+*{
+    padding:0;
+    margin:0;
+}
+
+html, body{
+    width:100%;
+    height:100%;
+}
+
+.root{
+    min-height:100%;
+    width:100%;
+    display:grid;
+    grid-template-columns: auto 250px 650px auto;
+}
+
+.side{
+    grid-column:2/3;
+    background-color:var(--primary);
+}
+
+.main{
+    grid-column:3/4;
+}
+
+
+
