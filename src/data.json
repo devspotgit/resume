@@ -8,15 +8,15 @@
 
         "email":"jpatricktadie@gmail.com",
 
-        "phone":"64-571-4366",
+        "phone":"647-571-4366",
 
-        "linkedin":"https://linkedin.com/in/patrick-tadie",
+        "linkedin":"linkedin.com/in/patrick-tadie",
 
-        "github":"https://github.com/devspotgit",
+        "github":"github.com/devspotgit",
 
-        "porfolio":"https://devspot.ca",
+        "portfolio":"devspot.ca",
 
-        "title":"Web Developper"
+        "title":"Web Developer"
     },
 
     "summary":"Detail-oriented Web Developer skilled in building modern, responsive web applications using JavaScript, CSS, and contemporary frameworks. Experienced with client-side and server-side development, API integration, authentication, and performance optimization. Strong problem-solver with a solid understanding of web standards and best practices.",
@@ -81,6 +81,29 @@
     "experience":[
 
         {
+            "company":"websites.devspot.ca",
+
+            "position":"Web developper",
+
+            "startDate":"July 2025",
+
+            "endDate":"Present",
+
+            "description":[
+
+                "Designed and developed responsive websites and web applications using modern web standards",
+
+                "Translated business and design requirements into clean, user-friendly interfaces",
+
+                "Built reusable UI components with a focus on performance and maintainability",
+
+                "Implemented UI/UX best practices to improve usability and engagement",
+
+                "Optimized layouts, assets, and code for speed and performance"
+            ] 
+        },
+
+        {
             "company":"CPOS",
 
             "position":"User support technician",
@@ -122,6 +145,7 @@
                 "Deployed, configured, and maintain OpenStack components"
             ] 
         }
+       
     ],
 
     "skills": [
